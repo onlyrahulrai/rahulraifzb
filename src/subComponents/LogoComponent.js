@@ -1,0 +1,25 @@
+import React from 'react'
+import styled from "styled-components"
+import { DarkTheme } from '../components/Themes'
+
+
+const LogoComponent = (props) => {
+  return (
+    <Logo color={props.color}>RR</Logo>
+  )
+}
+
+export default LogoComponent
+
+const Logo = styled.h1`
+    display:inline-block;
+    color:${props => {
+      console.log(" ----- Props ----- ",props)
+      return props.color === "dark" ? DarkTheme.text : DarkTheme.body}};
+    font-family: 'Pacifico',cursive !important;
+
+    position:fixed;
+    left:2rem;
+    top:2rem;
+    z-index:3;
+`
