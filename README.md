@@ -28,13 +28,6 @@
 
 <p align="left"> <a href="https://twitter.com/rahulraifzb" target="blank"><img src="https://img.shields.io/twitter/follow/rahulraifzb?logo=twitter&style=for-the-badge" alt="rahulraifzb" /></a> </p>
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rrai06125@gmail.com)](mailto:rrai06125@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulraifzb/)](https://www.linkedin.com/in/rahulraifzb/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rahulraifzb)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rahulraifzb)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rahulraifzb/)](https://instagram.com/rahulraifzb)
-
 ## 👨🏻‍💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/rahulraifzb/)
@@ -83,3 +76,18 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulraifzb&theme=tokyonight" />
 </p>
+
+<img alt="Sheelu kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulraifzb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+## Connect with Me
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rrai06125@gmail.com)](mailto:rrai06125@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulraifzb/)](https://www.linkedin.com/in/rahulraifzb/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rahulraifzb)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rahulraifzb)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rahulraifzb/)](https://instagram.com/rahulraifzb)
+
+
+#### &nbsp;&nbsp; Thank you for visiting my profile.
+
+⭐️ From [Rahul Rai](https://github.com/rahulraifzb)
